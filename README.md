@@ -2,7 +2,7 @@
 
 Automatización inteligente del monitoreo de contratos en SECOP II con Apache Airflow. Extrae, transforma y organiza datos públicos de procesos de contratación publicados en tiempo real para análisis estratégicos. 
 
-Este proyecto permite la **automatización del proceso de extracción y transformación** de datos públicos provenientes de la plataforma [SECOP II](https://www.colombiacompra.gov.co/secop/secop-ii), usando Airflow para la orquestación y Python para el procesamiento.
+Este proyecto permite la **automatización del proceso de extracción y transformación** de datos públicos provenientes de la plataforma [SECOP II](https://www.colombiacompra.gov.co/secop/secop-ii), desde los repositorios de [datos abiertos](https://www.datos.gov.co/) usando Apache Airflow para la orquestación y Python para el procesamiento.
 
 ## 📂 Estructura del Proyecto
 
