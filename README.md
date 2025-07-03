@@ -6,19 +6,7 @@ Este proyecto permite la **automatización del proceso de extracción y transfor
 
 ## 📂 Estructura del Proyecto
 
-dags/
-│ └── project_2/
-│ ├── etl_contracting.py
-│ └── funciones/
-│ ├── init.py
-│ └── funciones_complementarias.py
-├── outputs/
-│ ├── raw_data.parquet ← Datos sin procesar
-│ └── clean_data.parquet ← Datos transformados y limpios
-├── support/
-│ ├── mapeo_campos.json
-│ ├── reemplazos_modalidad_s2.json
-│ └── reemplazos_estados_s2.json
+![image](https://github.com/user-attachments/assets/3e3a081b-cf7b-42e6-a7e3-725e4102474c)
 
 ## ⚙️ DAG principal
 
