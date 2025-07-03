@@ -42,7 +42,8 @@ Las credenciales para acceder a la API de SECOP II están gestionadas mediante *
 - Requests
 - (Opcional) .env para pruebas locales
 
-📊 Casos de uso:
+
+## 📊 Casos de uso:
 
 - Monitoreo de procesos de contratación sin adjudicación.
 - Análisis de modalidades de contratación más usadas actualmente.
