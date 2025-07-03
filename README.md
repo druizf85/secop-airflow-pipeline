@@ -6,7 +6,7 @@ Este proyecto permite la **automatización del proceso de extracción y transfor
 
 ## 📂 Estructura del Proyecto
 
-![image](https://github.com/user-attachments/assets/3e3a081b-cf7b-42e6-a7e3-725e4102474c)
+![image](https://github.com/user-attachments/assets/22da8827-2d8e-4e72-9ebd-1d60fdcc3501)
 
 ## ⚙️ DAG principal
 
